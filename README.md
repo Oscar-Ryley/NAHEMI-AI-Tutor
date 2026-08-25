@@ -10,11 +10,15 @@ The project was created as a live demonstration for the talk **"Bringing the Ele
 
 ## Demonstration
 
-*(Video of the live conference demonstration will be hosted on NAHEMI's site soon and linked here)*
+[![Conference Recording](assets/recording_screenshot.png)](https://vimeo.com/1210505642?fl=pl&fe=cm)
+*Video of the live conference talk & demonstration, hosted on [NAHEMI's Archive](https://www.nahemi.org/archive-beta-8/v/r7a98zknbfhka785te6rj9467l7nxx)*
 
-![Oscar and the Pepper's Ghost Illusion, 25/06/2026](Assets/1.jpg)
+<br>
+
+![Oscar and the Pepper's Ghost Illusion, 25/06/2026](assets/oscar_photo.jpg)
 *Oscar and the Pepper's Ghost Illusion, dubbed "Ryleys' Ghost" - 25/06/2026*
 
+<br>
 
 ## Setup
 
@@ -52,9 +56,9 @@ ELEVENLABS_MODEL_ID="{Model_ID ie. eleven_turbo_v2_5}"
 ```
 
 <p align="center">
-<img src="Assets/westminster.png" width="150" alt="University of Westminster">
+<img src="assets/westminster_logo.png" width="150" alt="University of Westminster">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Assets/durham.jpg" width="150" alt="Durham University">
+<img src="assets/durham_logo.jpg" width="150" alt="Durham University">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Assets/royal_poly.jpg" width="150" alt="The Royal Polytechnic Institution">
+<img src="assets/royal_poly_logo.jpg" width="150" alt="The Royal Polytechnic Institution">
 </p>
